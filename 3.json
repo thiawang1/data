@@ -1,0 +1,44 @@
+[
+  {
+    "town": "ANG MO KIO",
+    "flat_type": "3 ROOM",
+    "flat_model": "New Generation",
+    "floor_area_sqm": "67",
+    "street_name": "ANG MO KIO AVE 10",
+    "resale_price": "270000",
+    "month": "2018-06",
+    "remaining_lease": "60 years 08 months",
+    "lease_commence_date": "1980",
+    "storey_range": "07 TO 09",
+    "_id": 28079,
+    "block": "577"
+  },
+  {
+    "town": "ANG MO KIO",
+    "flat_type": "3 ROOM",
+    "flat_model": "New Generation",
+    "floor_area_sqm": "67",
+    "street_name": "ANG MO KIO AVE 10",
+    "resale_price": "253000",
+    "month": "2018-06",
+    "remaining_lease": "59 years 08 months",
+    "lease_commence_date": "1979",
+    "storey_range": "01 TO 03",
+    "_id": 28080,
+    "block": "434"
+  },
+  {
+    "town": "ANG MO KIO",
+    "flat_type": "3 ROOM",
+    "flat_model": "New Generation",
+    "floor_area_sqm": "68",
+    "street_name": "ANG MO KIO AVE 10",
+    "resale_price": "238000",
+    "month": "2018-06",
+    "remaining_lease": "60 years 07 months",
+    "lease_commence_date": "1980",
+    "storey_range": "04 TO 06",
+    "_id": 28081,
+    "block": "557"
+  }
+]
